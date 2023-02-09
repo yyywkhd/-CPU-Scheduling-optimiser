@@ -3,7 +3,7 @@
 ### :rocket: Set up
 <h6> CPU scheduling is the process by which the operating system allocates CPU resources to different processes, and the entire process of CPU scheduling is carried out by the short-term scheduler (a process scheduler) in the operating system. Whenever the CPU is idle, the short-term scheduler selects a process from the ready queue located in memory and gives it to the CPU for execution.</h6>
 
-<h6>The target is that create a new CPU scheduling  algorithm to maxmise the CPU working efficiency.</h6>
+<h6>The target is that create a new CPU scheduling  algorithm to maximize the CPU working efficiency.</h6>
 
 <h6>This assignment is based on some CPU scheduling algorithms. E.g  Non-preemptive scheduling and preemptive scheduling.</h6>
 
